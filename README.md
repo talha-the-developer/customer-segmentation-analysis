@@ -1,4 +1,4 @@
-Cu#stomer Segmentation Analysis
+Customer Segmentation Analysis
 An exploratory data analysis (EDA) project using Python to identify patterns in retail customer spending habits.
 
 🚀 Overview
